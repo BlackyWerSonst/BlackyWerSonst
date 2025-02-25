@@ -13,7 +13,7 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-
+![](https://github-readme-stats.vercel.app/api?username=BlackyWerSonst&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ## Works
 
 ### Websites
